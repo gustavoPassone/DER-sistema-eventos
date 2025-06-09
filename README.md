@@ -1,7 +1,7 @@
 # DER-sistema-eventos
 DER de um sistema de eventos
 
--- Sietema Eventos --
+-- Sistema Eventos --
 
 • Diagrama
 <img src="evento.PNG">
